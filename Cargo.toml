@@ -3,3 +3,4 @@ members = [
     "vector",
     "linear"
 ]
+resolver = "2"
